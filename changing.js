@@ -15,7 +15,7 @@ const lowNums = (integer) => {
 }
 
 const refactor = (integer) => {
-    return integer = (integer * 1.5) - 1
+    return (integer * 1.5) - 1
 }
 
 const output = (a, b) => {
